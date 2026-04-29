@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addExpenseBtn
+id amount
+id description
+id loginBtn
+id password
+id registerBtn
+id saveBtn
+id username
+layout activity_add_expense
+layout activity_dashboard
+layout activity_main
+layout activity_register
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BudgetTrackerApp
+style Theme.BudgetTrackerApp
+xml backup_rules
+xml data_extraction_rules

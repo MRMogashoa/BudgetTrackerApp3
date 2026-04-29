@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:text="Dashboard"
+        android:textSize="24sp"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/addExpenseBtn"
+        android:text="Add Expense"/>
+</LinearLayout>
